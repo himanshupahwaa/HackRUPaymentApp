@@ -1,4 +1,4 @@
-# HackRU23_Winner-Transit_Pay
+# HackRU23 Payment App
 Imagine a world where you don't have to manually pay for tickets!
 <br />
 <br />
